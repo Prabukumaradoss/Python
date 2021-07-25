@@ -1,0 +1,5 @@
+print("PERIMETER OF THE RECTANGLE")
+l=int(input("enter length"))
+b=int(input("enter bredth"))
+A=2*(l+b)
+print(f"PERIMETER OF THE RECTANGLE = {A}")
